@@ -1,0 +1,1 @@
+A Color Flipper is a simple application where you have a button that, on click, runs a function that generates a random color and then sets the color of an element you preselected to that random color.
